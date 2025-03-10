@@ -24,6 +24,6 @@ To personalize the game for your Valentine, you'll need to edit the name in the 
 2. Find line 74 (approximately) with the text:
    ```tsx
    <h1 className="text-2xl font-normal mb-8 text-black tracking-wide z-10">
-     Grace Fawaz, Will you do me the honour this February 14th and be my Valentine?
+     <place holder> Will you do me the honour this February 14th and be my Valentine?
    </h1>
 
